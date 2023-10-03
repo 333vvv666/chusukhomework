@@ -1,5 +1,6 @@
 package goodSchool2;
 // git테스트
+// git테스트2
 public class GoodSchoolTest {
 
 	public static void main(String[] args) {
