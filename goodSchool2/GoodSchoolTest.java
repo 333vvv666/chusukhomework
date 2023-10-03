@@ -1,6 +1,6 @@
 package goodSchool2;
 // git테스트
-// git테스트2
+// git테스트3
 public class GoodSchoolTest {
 
 	public static void main(String[] args) {
